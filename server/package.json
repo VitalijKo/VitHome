@@ -1,8 +1,6 @@
 {
   "name": "server",
   "version": "1.0.0",
-  "author": "Corruptor",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "dev": "nodemon index"
